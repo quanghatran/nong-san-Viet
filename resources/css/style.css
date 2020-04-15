@@ -858,6 +858,15 @@ h2:after {
   margin-bottom: 50px;
   padding: 0;
   font-size: 18px;
+  background-image: url(../image/landingpage--banner.jpg);
+  background-position: left;
+}
+
+.form-section .form-register {
+  background: #fff;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
 }
 
 .form-section span {
@@ -941,6 +950,8 @@ h2:after {
   text-align: left;
   margin-top: 30px;
   font-size: 18px;
+  padding-bottom: 20px;
+  text-align: center;
 }
 
 .form-section .btn-join a {
